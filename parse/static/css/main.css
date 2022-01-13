@@ -1,0 +1,16 @@
+* {
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+.head {
+    background: #313831;
+    font-size: 20px;
+}
+
+.head a {
+    margin-right: 15px;
+    color: white;
+}
